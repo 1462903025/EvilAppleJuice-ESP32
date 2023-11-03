@@ -50,7 +50,7 @@ https://github.com/ECTO-1A/AppleJuice/assets/6680615/47466ed6-03c9-43b2-a0d0-aac
 
 通过 vscode 点击左侧栏的扩展 -> 搜索platformIO -> 安装第一个插件
 
-https://img-blog.csdnimg.cn/img_convert/43c0aaeb10bda68521f9257acb41e3e2.png#pic_center
+<img src=https://img-blog.csdnimg.cn/img_convert/43c0aaeb10bda68521f9257acb41e3e2.png#pic_center>
 
 插件安装好后会在左侧栏自动生成一个蜜蜂图标，点击进入平台主页(或选择点击左下角的小房子)
 
