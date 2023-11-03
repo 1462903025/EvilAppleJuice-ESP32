@@ -59,3 +59,7 @@ https://github.com/ECTO-1A/AppleJuice/assets/6680615/47466ed6-03c9-43b2-a0d0-aac
 先编译再上传（左下角）
 
 <img src=https://img-blog.csdnimg.cn/img_convert/14de97095f80da9d69e1fbc9a78ce307.png#pic_center>
+
+## 免责声明
+
+该项目用于测试和教育目的。仅针对您自己的设备使用它。我不对你用这个程序做什么承担任何责任。
