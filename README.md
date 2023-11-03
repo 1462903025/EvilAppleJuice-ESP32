@@ -54,8 +54,8 @@ https://github.com/ECTO-1A/AppleJuice/assets/6680615/47466ed6-03c9-43b2-a0d0-aac
 
 插件安装好后会在左侧栏自动生成一个蜜蜂图标，点击进入平台主页(或选择点击左下角的小房子)
 
-https://img-blog.csdnimg.cn/img_convert/a139f7311ee96e66ab412e5098ae8255.png#pic_center
+<img src=https://img-blog.csdnimg.cn/img_convert/a139f7311ee96e66ab412e5098ae8255.png#pic_center>
 
 先编译再上传（左下角）
 
-https://img-blog.csdnimg.cn/img_convert/14de97095f80da9d69e1fbc9a78ce307.png#pic_center
+<img src=https://img-blog.csdnimg.cn/img_convert/14de97095f80da9d69e1fbc9a78ce307.png#pic_center>
